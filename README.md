@@ -2,7 +2,7 @@
 class Swarf{
   constructor(...options) {
     this.type = "human"
-    this.job = "student"
+    this.job = "dev"
     this.gender = "male"
   }
 }
